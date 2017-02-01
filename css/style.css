@@ -1,0 +1,52 @@
+body{
+	font-family: 'Bungee Inline', cursive;
+	font-weight: 300;
+	color: white;
+	background:#006666;
+	background: linear-gradient(white, #006666);
+	background: -webkit-linear-gradient(white, #006666); /*Safari 5.1-6*/
+    background: -o-linear-gradient(white, #006666); /*Opera 11.1-12*/
+    background: -moz-linear-gradient(white, #006666); /*Fx 3.6-15*/
+	background-size: cover;
+}
+
+img{
+	border-radius: 10px;
+}
+
+.text-black {
+	color: black;
+}
+
+.subheader{
+	font-size: 35px;
+}
+
+.title-super {
+	font-size: 80px;
+}
+
+.tagline {
+	font-size: 35px;
+}
+
+.logo {
+	margin-top: 50px;
+}
+
+.app-link {
+	color:white;
+}
+
+.modal-title {
+	font-size: 30px;
+}
+
+.footer {
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+.footer-link {
+	color: white;
+}
